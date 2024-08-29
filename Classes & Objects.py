@@ -1,3 +1,4 @@
+#  Object created from class (student)
 
 from Student import Student
 
